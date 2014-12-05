@@ -1,0 +1,96 @@
+<?php 
+ class Autoshow
+ {
+ public Name
+ public Adress
+ public WorkingHours
+ public PhoneNumber
+ {
+ 	print(Name)
+ 	print(Adress)
+ 	print(WorkingHours)
+ }
+
+class Seller
+{
+public function NewCarsForSale
+public function UsedCarsForSale
+public function ArrangingTestDrive
+{
+	public FullName
+	public PhoneNumber
+{
+	print(NewCarsForSale)
+	print(UsedCarsForSale)
+	print(ArrangingTestDrive)
+}
+
+class Buyer
+{
+public function ByingNewCars
+public function BuyingUsedCars
+public function GetTestDrive
+{
+	public FullName
+	public PhoneNumber
+{
+	print(ByingNewCars)
+	print(BuyingUsedCars)
+	print(GetTestDrive)
+}
+}
+
+abstract class Car
+{
+
+}
+abstract class passenger car
+{
+	public type // new/used
+}
+{
+	public function GetTestDrive
+}
+{
+	public Brand
+	public Year
+	public Running
+	public EngineSize
+	public Price
+	public BodyType
+	public Photo
+{
+	print(Brand)
+	print(Year)
+	print(Running)
+	print(EngineSize)
+	print(Price)
+	print(BodyType)
+	print(Photo)
+}
+	
+abstract class truck
+
+	public type // new/used
+}
+{
+	public function TestDrive
+}
+{
+	public Brand
+	public Year
+	public Running
+	public EngineSize
+	public Price
+	public BodyType
+	public Photo
+{
+	print(Brand)
+	print(Year)
+	print(Running)
+	print(EngineSize)
+	print(Price)
+	print(BodyType)
+	print(Photo)
+}
+}
